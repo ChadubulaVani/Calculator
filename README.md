@@ -62,7 +62,10 @@ Optimized layout using CSS Grid & Media Queries
 📌 LinkedIn Video Post:
 (Add your LinkedIn post link here after uploading)
 
-## 🧑‍💻 Author
+## 🔗 Live Link 
+https://chadubulavani.github.io/Calculator/
+
+## 👩‍💻 Author
 
 Chadubula Vani
 Web Developer Intern
