@@ -67,9 +67,9 @@ Optimized layout using CSS Grid & Media Queries
 Chadubula Vani
 Web Developer Intern
 
-## LinkedIn: https://www.linkedin.com/in/your-profile
+## LinkedIn: https://www.linkedin.com/in/chadubula-vani-6634b0321/
 
-## GitHub: https://github.com/your-username
+## GitHub: https://github.com/ChadubulaVani
 
 🙌 Acknowledgment
 
