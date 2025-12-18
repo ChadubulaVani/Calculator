@@ -1,6 +1,6 @@
 # 🧮 Calculator
 
-A modern, responsive **Simple Calculator** built using **HTML, CSS, and JavaScript** with advanced UI features like **Glassmorphism** and **Dark/Light Mode Toggle**.
+A modern, responsive **Simple Calculator** built using **HTML, CSS and JavaScript** with advanced UI features like **Glassmorphism** and **Dark/Light Mode Toggle**.
 
 This project was created as part of an internship task at **InternPe**.
 
@@ -27,7 +27,7 @@ This project was created as part of an internship task at **InternPe**.
 
 ## 📂 Project Structure
 
-Simple-Calculator/
+SIMPLE CALCULATOR/
 │── index.html
 │── style.css
 │── script.js
@@ -40,7 +40,7 @@ Simple-Calculator/
 
 1. Download or clone this repository  
    ```bash
-   git clone https://github.com/your-username/glass-calculator.git
+   git clone https://github.com/ChadubulaVani/Calculator.git
 2. Open index.html in any web browser
 
 3. Start calculating 🎉
