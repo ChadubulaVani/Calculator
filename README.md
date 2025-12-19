@@ -60,7 +60,7 @@ Optimized layout using CSS Grid & Media Queries
 ## 🎥 Demo Video
 
 📌 LinkedIn Video Post:
-(Add your LinkedIn post link here after uploading)
+https://www.linkedin.com/posts/chadubula-vani-6634b0321_internpe-webdevelopment-html-activity-7407671754229215232-FQd1?utm_source=share&utm_medium=member_android&rcm=ACoAAFFovqsB7Q9CkhpSOGakJwzFW3s4J008rQc
 
 ## 🔗 Live Link 
 https://chadubulavani.github.io/Calculator/
